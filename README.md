@@ -29,7 +29,7 @@ Chaque langage a son utilité pour le projet :
 
 Nous allons manipuler ces langages à travers les différentes étapes du projet, en partant du HTML, en passant par le CSS et en terminant avec le JS.
 
-Chaque branche du projet représente l'une de ces étapes pour le développement du jeu du Pendu :
+Chaque branche du projet représente l'une de ces étapes pour le développement du jeu :
 * [Découverte du HTML](https://github.com/JaminNormand/jeux_du_mot_mystere/tree/step-1)
 * [Première page HTML](https://github.com/JaminNormand/jeux_du_mot_mystere/tree/step-2)
 * [Découverte du CSS](https://github.com/JaminNormand/jeux_du_mot_mystere/tree/step-3)
