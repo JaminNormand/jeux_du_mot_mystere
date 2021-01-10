@@ -86,6 +86,8 @@ CSS propose de nombreuses façons de placer les éléments sur une page.
 Tous d'abord, sachez que chaque balise dispose d'un padding et d'une margin :
 ![marges](ressources/marges.png)
 
+
+
 Il est possible de les définir aves les règles __padding__ et __margin__. 
 
 En exemple, ajoutez la règle suivante dans un sélecteur __H1__ :
