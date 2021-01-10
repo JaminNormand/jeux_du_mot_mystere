@@ -84,6 +84,7 @@ CSS propose de nombreuses façons de placer les éléments sur une page.
 
 ### Marges
 Tous d'abord, sachez que chaque balise dispose d'un padding et d'une margin :
+
 ![marges](ressources/marges.png)
 
 
